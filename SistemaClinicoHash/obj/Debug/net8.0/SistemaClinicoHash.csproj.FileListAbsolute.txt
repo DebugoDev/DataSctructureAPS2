@@ -1,0 +1,15 @@
+C:\git\DataSctructureAPS2\SistemaClinicoHash\bin\Debug\net8.0\SistemaClinicoHash.exe
+C:\git\DataSctructureAPS2\SistemaClinicoHash\bin\Debug\net8.0\SistemaClinicoHash.deps.json
+C:\git\DataSctructureAPS2\SistemaClinicoHash\bin\Debug\net8.0\SistemaClinicoHash.runtimeconfig.json
+C:\git\DataSctructureAPS2\SistemaClinicoHash\bin\Debug\net8.0\SistemaClinicoHash.dll
+C:\git\DataSctructureAPS2\SistemaClinicoHash\bin\Debug\net8.0\SistemaClinicoHash.pdb
+C:\git\DataSctructureAPS2\SistemaClinicoHash\obj\Debug\net8.0\SistemaClinicoHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\DataSctructureAPS2\SistemaClinicoHash\obj\Debug\net8.0\SistemaClinicoHash.AssemblyInfoInputs.cache
+C:\git\DataSctructureAPS2\SistemaClinicoHash\obj\Debug\net8.0\SistemaClinicoHash.AssemblyInfo.cs
+C:\git\DataSctructureAPS2\SistemaClinicoHash\obj\Debug\net8.0\SistemaClinicoHash.csproj.CoreCompileInputs.cache
+C:\git\DataSctructureAPS2\SistemaClinicoHash\obj\Debug\net8.0\SistemaClinicoHash.sourcelink.json
+C:\git\DataSctructureAPS2\SistemaClinicoHash\obj\Debug\net8.0\SistemaClinicoHash.dll
+C:\git\DataSctructureAPS2\SistemaClinicoHash\obj\Debug\net8.0\refint\SistemaClinicoHash.dll
+C:\git\DataSctructureAPS2\SistemaClinicoHash\obj\Debug\net8.0\SistemaClinicoHash.pdb
+C:\git\DataSctructureAPS2\SistemaClinicoHash\obj\Debug\net8.0\SistemaClinicoHash.genruntimeconfig.cache
+C:\git\DataSctructureAPS2\SistemaClinicoHash\obj\Debug\net8.0\ref\SistemaClinicoHash.dll
